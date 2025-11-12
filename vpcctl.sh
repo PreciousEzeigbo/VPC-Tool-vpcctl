@@ -1,5 +1,4 @@
 #!/bin/bash
-# vpcctl - Build Your Own Virtual Private Cloud on Linux
 # Simple VPC simulator using Linux namespaces, bridge, veth and iptables
 # Usage: sudo ./vpcctl <command> [...]
 # Commands: create, delete, add-subnet, peer, firewall, list, show, cleanup
